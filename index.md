@@ -7,3 +7,8 @@
 ``` python
 import numpy as np
 ```
+
+- [x] Input headers
+- [x] Add an image
+- [x] Show a codeblock
+- [ ] Complete the task list
